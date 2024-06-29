@@ -3,7 +3,8 @@ Coursera test repository
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>Hello!</h1>
+<p>My name is Aaliyah Narine</p>
+<p>This is my page<p>
 </body>
 </html>
